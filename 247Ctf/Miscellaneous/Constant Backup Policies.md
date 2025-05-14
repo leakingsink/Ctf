@@ -3,8 +3,6 @@ We find out that there is 2 users (flag and notroot) and we are notroot.
 
 The flag is in /home/flag but we can not read it, and we know that user flag run “/bin/tar czf *” every second from the hint.
 
-This post helped me a lot.
-
 We will make user flag to write the flag to another file where we can read it, which is in /tmp. Change the directory to /home/notroot and we use:
 
 ```bash
