@@ -1,0 +1,4 @@
+
+```bash
+nc <ip> <port>
+```
