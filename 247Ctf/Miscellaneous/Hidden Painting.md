@@ -35,5 +35,3 @@ if __name__ == "__main__":
 ```
 
 main.py `<path to secret_map.txt>` --save `<path to output file>`
-
-247CTF{0c895fb57954df7f83756e1f7718e661}
